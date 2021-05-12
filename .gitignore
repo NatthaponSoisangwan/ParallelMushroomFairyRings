@@ -1,0 +1,9 @@
+.vscode
+
+#executables
+gol_acc_loops
+gol_acc_loops.prof
+gol_seq
+gol_seq.prof
+out.txt
+python-virtual-environments
