@@ -1,6 +1,6 @@
 # # COMP 445 final project
 
-This is the code and data repository for my capstone project for COMP 445 (Parallel/Distributed Processing). It is based on the Mushroom Fairy Ring cellular automata project described by Shiflet and Shiflet. Refer to the [report](https://docs.google.com/document/d/1YLiJuwb21qcQkeGn1GAO4gfDVacFW7doOG1oLX8fHWs/edit?usp=sharing) for background information and details on the parallel (OpenAcc manycore) implementation.
+This is the code and data repository for my capstone project for COMP 445 (Parallel/Distributed Processing). It is based on the Mushroom Fairy Ring cellular automata project described by Shiflet and Shiflet. Refer to the [report](https://docs.google.com/document/d/1AxgxVzez3yTIdsUJzJ6Y6PDQybKdPZGRYfAQSLOmZ-o/) for background information and details on the parallel (OpenAcc manycore) implementation.
 
 # How to compile
 
